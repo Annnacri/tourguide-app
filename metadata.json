@@ -1,0 +1,6 @@
+{
+  "name": "AI Tourguide Creator",
+  "description": "Create unique tours in seconds with AI. Transform simple ideas into detailed itineraries and publish them automatically. Powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
